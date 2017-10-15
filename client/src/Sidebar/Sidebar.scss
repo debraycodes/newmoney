@@ -1,0 +1,15 @@
+.sidebar-panel {
+    position: fixed;
+    margin-top: 10%;
+    opacity: .8;
+}
+ul {
+    list-style-type: none; 
+    text-align: center;
+    margin: 10% 0 10% 0;
+    font-size-adjust: relative;
+    li { display: block;
+        padding: 0.5%;
+        list-style: none;
+    }
+}
